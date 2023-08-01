@@ -60,10 +60,6 @@ dotnet run
 
 .NET Core 3.0 Console Application с примерами использования Cyriller.
 
-### Проект `Cyriller.Web`
-
-.NET Framework 4.5 ASP.NET MVC вэб-сайт с демонстрацией возможностей Cyriller.
-
 ### Проект `Cyriller.Zipper`
 
 Служебное .NET Core 3.0 Console Application для упаковки словарей Cyriller на стадии компиляции.
